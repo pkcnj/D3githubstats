@@ -1,0 +1,92 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : PJSDEVCOMP
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Mullvad:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : TAP-Windows Adapter V9
+   Physical Address. . . . . . . . . : 00-FF-E5-78-0B-1A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : fdda:d0d0:cafe:443::1000(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::1125:5b64:ab71:9c74%21(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.5.0.2(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Lease Obtained. . . . . . . . . . : Wednesday, December 12, 2018 3:26:18 PM
+   Lease Expires . . . . . . . . . . : Thursday, December 12, 2019 3:26:18 PM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 10.5.255.254
+   DHCPv6 IAID . . . . . . . . . . . : 838926309
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-BB-99-44-54-EE-75-9A-D5-BA
+   DNS Servers . . . . . . . . . . . : ::10.5.0.1
+                                       10.5.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection I218-LM
+   Physical Address. . . . . . . . . : 54-EE-75-9A-D5-BA
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-08
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::408a:80a3:6c1e:de94%8(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 772407335
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-BB-99-44-54-EE-75-9A-D5-BA
+   DNS Servers . . . . . . . . . . . : ::10.5.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : E8-B1-FC-B5-A8-C0
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : EA-B1-FC-B5-A8-BF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Dual Band Wireless-AC 7260
+   Physical Address. . . . . . . . . : E8-B1-FC-B5-A8-BF
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::89dc:d35c:e6b0:53de%12(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.10(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, December 12, 2018 3:32:31 AM
+   Lease Expires . . . . . . . . . . : Thursday, December 13, 2018 1:45:25 PM
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 82358780
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-BB-99-44-54-EE-75-9A-D5-BA
+   DNS Servers . . . . . . . . . . . : ::10.5.0.1
+                                       10.5.0.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
